@@ -29,3 +29,7 @@ Developed a Zero Trust-focused cybersecurity governance and compliance framework
 
 ## Outcome
 The project proposed a governance-driven cybersecurity framework to improve organizational security posture and advance the organization from NIST CSF Tier 1 to Tier 2 (Risk-Informed).
+
+## Project Poster Preview
+
+![Project Poster](Zero Trust Poster.png)
