@@ -32,4 +32,4 @@ The project proposed a governance-driven cybersecurity framework to improve orga
 
 ## Project Poster Preview
 
-poster.png
+![Project Poster](poster.png)
