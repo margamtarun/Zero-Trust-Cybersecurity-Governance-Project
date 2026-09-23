@@ -1,6 +1,7 @@
 # Zero Trust Cybersecurity Governance Project
+## Project Overview
 
-Developed a Zero Trust-focused cybersecurity governance and compliance framework for a cloud-based accounting firm aligned with NIST CSF 2.0 principles.
+This project developed a Zero Trust-focused cybersecurity governance and compliance plan for a simulated small cloud-based accounting firm, FintSecure Accounting Services. The project focused on strengthening identity and access management, reducing security risks, improving cloud governance, and aligning cybersecurity practices with the NIST Cybersecurity Framework (CSF) 2.0.
 
 ## Technologies & Frameworks
 - Zero Trust Architecture (ZTA)
