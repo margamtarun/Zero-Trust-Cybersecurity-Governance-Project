@@ -143,9 +143,13 @@ The proposed cybersecurity plan was organized into several implementation phases
 - Project Type: Academic Cybersecurity Capstone Project
 - Organization: FintSecure Accounting Services (Simulated)
 
-## Project Poster Preview
+## Project Poster
 
-![Project Poster](poster.png)
+### Poster Preview
+
+![Zero Trust Cybersecurity Project Poster](Zero-Trust-Cybersecurity-Project-Showcase.png)
+
+[View the Project Poster PDF](Zero-Trust-Project.pdf)
 
 ## Project Files
 
